@@ -1,127 +1,112 @@
 # HR-Analysis
 
-Project Overview
+# HR Analytics Dashboard - Employee Attrition Analysis
 
-This project presents a comprehensive HR analytics dashboard designed to analyze employee attrition and uncover the key factors influencing workforce turnover.
+![HR Analytics Dashboard](https://via.placeholder.com/1200x600.png?text=HR+Analytics+Dashboard+Preview)  
+<img width="1598" height="848" alt="Screenshot 2026-02-23 125116" src="https://github.com/user-attachments/assets/ba3b0839-ca72-4a4a-a8ec-4634715f66ea" />
 
-The objective is to transform raw HR data into actionable insights that support data-driven decision-making in employee retention strategies.
+## Project Overview
 
-The analysis focuses on identifying patterns across job roles, age groups, satisfaction levels, training frequency, promotion history, and demographic factors to better understand why employees leave the organization.
+This project presents a **comprehensive HR analytics dashboard** designed to analyze **employee attrition** and uncover the key factors influencing workforce turnover.
 
-Business Problem
+The objective is to transform raw HR data into **actionable insights** that support **data-driven decision-making** in employee retention strategies.
 
-Employee attrition can significantly impact organizational performance, productivity, and hiring costs.
+The analysis focuses on identifying patterns across:
 
-This project aims to answer the following questions:
+- Job roles
+- Age groups
+- Satisfaction levels
+- Training frequency
+- Promotion history
+- Demographic factors
 
-What is the overall attrition rate?
+to better understand **why employees leave** the organization.
 
-Which job roles experience the highest turnover?
+## Business Problem
 
-Are specific age groups or demographics more likely to leave?
+Employee attrition can significantly impact:
 
-Does job satisfaction influence attrition?
+- Organizational performance
+- Productivity
+- Hiring & replacement costs
 
-Do promotions and training participation affect retention?
+### Key Questions Answered
 
-Is workload (e.g., overtime) linked to higher turnover?
+- What is the **overall attrition rate**?
+- Which **job roles** experience the highest turnover?
+- Are specific **age groups** or **demographics** more likely to leave?
+- Does **job satisfaction** influence attrition?
+- Do **promotions** and **training participation** affect retention?
+- Is **workload** (e.g., overtime) linked to higher turnover?
 
-Methodology
+## Methodology
 
-The project follows a structured analytical approach:
+The project follows this structured analytical approach:
 
-Data Cleaning and Preparation
+1. **Data Cleaning and Preparation**
+   - Handling categorical variables
+   - Grouping age categories
+   - Ensuring consistent metrics
 
-Handling categorical variables
+2. **Exploratory Data Analysis (EDA)**
+   - Attrition rate calculation
+   - Cross-analysis by department, job role, and demographics
+   - Comparison between retained vs. exited employees
 
-Grouping age categories
+3. **Dashboard Development**
+   - KPI indicators
+   - Comparative bar charts
+   - Satisfaction and demographic breakdown
+   - Promotion and training analysis
 
-Ensuring consistent metrics
+## Key Findings
 
-Exploratory Data Analysis (EDA)
+- Overall **attrition rate ≈ 16%** (moderate turnover)
+- Employees aged **26–35** show the **highest attrition** levels
+- **Operational** and **sales-related roles** exhibit significantly higher turnover
+- **Lower job satisfaction** is strongly associated with increased attrition
+- **Promotion** and **training frequency** show only minor differences between stayers and leavers
+- **Overtime** workload appears to contribute to attrition — especially in specific job roles
 
-Attrition rate calculation
+## Dashboard Highlights
 
-Cross-analysis by department, job role, and demographics
+The final dashboard includes:
 
-Comparison between retained and exited employees
+- **Attrition Rate** KPI
+- Attrition by **Job Role** (bar chart)
+- Attrition by **Age Group**
+- Attrition by **Gender**
+- **Job Satisfaction** Distribution
+- **Promotion** & **Training** Comparison (stayers vs. leavers)
+- Impact of **Marital Status**
 
-Dashboard Development
+The layout emphasizes **clarity**, **structured visual grouping**, and **business-oriented storytelling**.
 
-KPI indicators
+## Tools & Technologies
 
-Comparative bar charts
+- **Tableau** → Dashboard development & visualization
+- **Excel** → Data preprocessing & initial cleaning
+- HR Analytics principles
+- Exploratory Data Analysis techniques
 
-Satisfaction and demographic breakdown
+## Business Impact
 
-Promotion and training analysis
+This analysis helps organizations to:
 
-Key Findings
+- Identify **high-risk employee segments**
+- Improve **retention strategy** planning
+- Support **workforce planning** decisions
+- Enhance **employee engagement** initiatives
 
-The overall attrition rate is approximately 16 percent, indicating moderate turnover.
+## Skills Demonstrated
 
-Employees aged 26–35 show the highest attrition levels.
+- Data Cleaning & Preparation
+- HR Analytics
+- Data Visualization
+- Dashboard Design (UI/UX for insights)
+- Business Insight Generation
+- Analytical & Critical Thinking
 
-Certain operational and sales-related roles exhibit significantly higher turnover.
+---
 
-Lower job satisfaction is strongly associated with increased attrition.
-
-Promotion and training frequency show minor differences between employees who stayed and those who left.
-
-Overtime workload appears to contribute to attrition in specific job roles.
-
-Dashboard Highlights
-
-The dashboard includes:
-
-Attrition Rate KPI
-
-Attrition by Job Role
-
-Attrition by Age Group
-
-Attrition by Gender
-
-Job Satisfaction Distribution
-
-Promotion and Training Comparison
-
-Marital Status Impact
-
-The layout emphasizes clarity, structured visual grouping, and business-oriented storytelling.
-
-Tools and Technologies
-
-Tableau for dashboard development
-
-Excel for data preprocessing
-
-HR Analytics principles
-
-Exploratory Data Analysis techniques
-
-Business Impact
-
-This project demonstrates how HR data can be leveraged to:
-
-Identify high-risk employee segments
-
-Improve retention strategy planning
-
-Support workforce planning decisions
-
-Enhance employee engagement initiatives
-
-Skills Demonstrated
-
-Data Cleaning and Preparation
-
-HR Analytics
-
-Data Visualization
-
-Dashboard Design
-
-Business Insight Generation
-
-Analytical Thinking
+**Questions / feedback?** → Open an issue or connect!

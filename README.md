@@ -1,5 +1,3 @@
-# HR-Analysis
-
 # HR Analytics Dashboard - Employee Attrition Analysis
 
 <img width="1598" height="848" alt="Screenshot 2026-02-23 125116" src="https://github.com/user-attachments/assets/ba3b0839-ca72-4a4a-a8ec-4634715f66ea" />

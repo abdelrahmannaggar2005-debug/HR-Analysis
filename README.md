@@ -1,6 +1,6 @@
 # HR Analytics Dashboard - Employee Attrition Analysis
 
-<img width="1777" height="688" alt="Screenshot 2025-12-30 155306" src="https://github.com/user-attachments/assets/2b8bd8fb-b382-4fdf-91e5-c90b375bb23a" />
+<img width="1592" height="837" alt="Screenshot 2026-02-23 151914" src="https://github.com/user-attachments/assets/a965614c-b947-46eb-ac66-ba018b8d3ced" />
 
 ## Project Overview
 
